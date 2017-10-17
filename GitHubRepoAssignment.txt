@@ -1,0 +1,12 @@
+Created a new repository on GitHub website named GitHubRepoAssignment
+On terminal:
+mkdir GitHubRepoAssignment
+cd GitHubRepoAssignment
+git init
+vi readme.md (added text)
+git status
+git add .
+git commit -m "Added readme.md"
+git push
+
+
