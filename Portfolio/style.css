@@ -1,0 +1,157 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+    }
+    
+    #background {
+        background-color: rgb(94, 45, 45);
+        margin: 15px 20px;
+        height: 850px;
+        width: 800px;
+    }
+
+    #headline {
+        background-color: rgba(255, 255, 255, 0.794);
+        color: black;
+        width: 780px;
+        padding: 15px 0px 15px 20px;
+        border-bottom: solid;
+        border-bottom-width: 2px;
+    }
+
+    #name {
+        display: inline-block;
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    #slogan {
+        display: inline-block;
+        position: absolute;
+        font-size: 20px;
+        left: 500px;
+        top: 35px;
+    }
+
+    #profilepicture {
+        border: 5px solid rgb(144, 144, 144);
+        width: 350px;
+        height: 240px;
+        margin: 15px 25px;
+        display: inline-block;
+    }
+
+    #about {
+        background-color: white;
+        display: inline-block;
+        width: 355px;
+        height: 250px;
+        vertical-align: top;
+        margin: 15px 0px 0px 0px;
+        
+        
+    }
+    
+    #about_title {
+        background-color: rgb(148, 148, 148);
+        display: block;
+        width: 345px;
+        color: white;
+        padding: 5px;
+        font-size: 20px;
+    }
+
+    .description {
+        margin: 5px;
+        font-size: 14px;
+    }
+
+    .sections {
+        background-color: white;
+        width: 225px;
+        height: 450px;
+        margin: 5px 5px 0px 25px;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .heading {
+        background-color: rgb(148, 148, 148);
+        padding: 5px;
+        color: white;
+        font-weight: bold;
+        font-size: 17px;
+    }
+
+    .sectionpicture {
+        width: 225px;
+        height: 130px;
+        vertical-align: top;
+    }
+
+    .sectiondescription {
+        margin: 5px;
+        font-size: 12px;
+    }
+    
+    .technology {
+        background-color: rgb(148, 148, 148);
+        padding: 5px;
+        color: white;
+        font-weight: bold;
+        font-size: 17px;
+    }
+
+    .logo {
+        width: 30px;
+        height: 30px;
+        display:inline-block;
+        margin: 5px;
+    }
+
+    #lamodebutton {
+        background-color: green;
+        border-radius: 5px;
+        color: white;
+        width: 65px;
+        text-align: center;
+        position: absolute;
+        left: 120px;
+    }
+    #familycontactsbutton {
+        background-color: green;
+        border-radius: 5px;
+        color: white;
+        width: 120px;
+        text-align: center;
+        position: absolute;
+        left: 360px;
+    }
+
+    #fiveelevenbutton {
+        background-color: green;
+        border-radius: 5px;
+        color: white;
+        width: 65px;
+        text-align: center;
+        position: absolute;
+        left: 640px;
+    }
+
+    #contacts {
+        text-align: center;
+        position: fixed;
+        left: 300px;
+    }
+
+
+    .names {
+        text-decoration: underline;
+        font-style: italic;
+    }
+
+    .social {
+        width: 15px;
+        height: 15px;
+    }
